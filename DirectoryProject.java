@@ -40,4 +40,6 @@ public class DirectoryProject {
 		}
 }
 
+
 Commit from git_test
+Commit from git_test_2
